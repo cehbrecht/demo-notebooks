@@ -1,9 +1,11 @@
 name: demo
 channels:
     - birdhouse
+    - ioos
 dependencies:
     - python=2.7
     - jupyter
+    - cartopy
     - esgf-pyclient=0.1.6
     - myproxyclient=1.4.3
     - netcdf4=1.2.2
