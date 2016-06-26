@@ -6,3 +6,4 @@ dependencies:
     - jupyter
     - esgf-pyclient=0.1.6
     - myproxyclient=1.4.3
+    - netcdf4=1.2.2
