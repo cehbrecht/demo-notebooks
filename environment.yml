@@ -1,0 +1,8 @@
+name: demo
+channels:
+    - birdhouse
+dependencies:
+    - python=2.7
+    - jupyter
+    - esgf-pyclient=0.1.6
+    - myproxyclient=1.4.3
