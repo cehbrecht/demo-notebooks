@@ -13,3 +13,4 @@ dependencies:
     - pynco
     - cdo
     - pycdo
+    - folium
