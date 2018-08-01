@@ -1,5 +1,7 @@
 # demo-notebooks
 
+**This repository is out-dated and read-only. Please use: https://github.com/cehbrecht/jupyterlab-notebooks**
+
 Some ipython notebooks for demo:
 
 * esgf-opendap.ipnb: using esgf pyclient to download data with opendap.
